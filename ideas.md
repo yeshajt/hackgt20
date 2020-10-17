@@ -33,4 +33,14 @@
 2. platform where users can upload receipts and send to companies for business trips to be reimbursed (probably exists already)
 3. platform where users can upload receipts to keep track of how much money they spend where (comprehensively analyzes spending habits)
 
+### Travel
+1. "throw a dart to pick your next destination" but online – randomly picks your next travel destination
+2. set paramaters (budget, "bucket list destinations", type of vacation wanted, etc.) and the platform will find the next travel location for you
+3. itinerary generator
+4. 
+
+### Personal Development/Self-Care
+1. online journaling platform where you can add things like diary entries, upcoming events, mood trackers, and so on
+2. 
+
 #### keep adding ideas and sections :)
