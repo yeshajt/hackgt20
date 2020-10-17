@@ -1,3 +1,29 @@
+## HackGT Project: (project name)
+
+#### Build a platform where users can upload receipts to keep track of how much money they spend where (comprehensive analysis of spending habits)
+Aligns with the Capital One Sponsorship Challenge
+
+### Functionality:
+1. encrypted user sign-in/sign-up
+2. users can upload up to 15 receipts at once
+3. OCR to scan and read receipts and store information in a database
+4. cross checks with a pre-existing database to figure out type of purchase
+5. presents the information in the database in a user-friendly way
+6. allows for the user to set a budget for specific brands/types of purchases (since people most likely wouldn't upload frequently, we wouldn't have any way to track/stop people from going over their budget)
+7. stores (?) receipts for future viewing – can be deleted if no longer necessary
+
+### Applications
+1. easier for companies to reimburse people on business travels (just add a date criteria)
+2. track personal spending habits and set goals
+3. come up with more
+
+### Questions we need to answer:
+1. how is this app different from, say, BoA's spending and budgeting system? what does this system allow for that the BoA system couldn't?
+2. how are we ensuring privacy/encryption?
+3. what about online transactions like venmo or paypal? is there a way we can add that info to this system?
+4. can the OCR read both paper and electronic receipts?
+5. what's next? how might you add to this project if you had more time/resources/will to work?
+
 ## HackGT Ideas
 
 ### Rankings
