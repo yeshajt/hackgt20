@@ -1,9 +1,10 @@
 ## HackGT Project: (project name)
 
-#### Build a platform where users can upload receipts to keep track of how much money they spend where (comprehensive analysis of spending habits)
-Aligns with the Capital One Sponsorship Challenge
+#### Build a platform that helps restaurants
+Aligns with the NCR Sponsorship Challenge maybe
 
 ### Functionality:
+1. 
 1. encrypted user sign-in/sign-up
 2. users can upload up to 15 receipts at once
 3. OCR to scan and read receipts and store information in a database
@@ -11,6 +12,12 @@ Aligns with the Capital One Sponsorship Challenge
 5. presents the information in the database in a user-friendly way
 6. allows for the user to set a budget for specific brands/types of purchases (since people most likely wouldn't upload frequently, we wouldn't have any way to track/stop people from going over their budget)
 7. stores (?) receipts for future viewing – can be deleted if no longer necessary
+
+
+### API:
+1. catalog service: farmers can use this feature to create a list of all the produce they're growing (includes item availability)
+2. delivery partner interface: restaurants can use this feature to create a new delivery 
+
 
 ### Applications
 1. easier for companies to reimburse people on business travels (just add a date criteria)
