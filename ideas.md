@@ -19,8 +19,8 @@
 
 ### Politics/Elections (because why not)
 1. platform that keeps track of election events (town halls, debates, primaries, etc.)
-2. platform that shows how "liberal"- or "conservative" leaning a given news article is and provides more "neutral" alternatives (Allsides.com)
-3. Online voting system?
+2. platform that shows how "liberal" or "conservative" leaning a given news article is and provides more "neutral" alternatives (Allsides.com)
+3. online voting system?
 
 ### Sustainability
 1. find the nearest trash can/recycling bin/composting space
@@ -37,10 +37,9 @@
 1. "throw a dart to pick your next destination" but online – randomly picks your next travel destination
 2. set paramaters (budget, "bucket list destinations", type of vacation wanted, etc.) and the platform will find the next travel location for you
 3. itinerary generator
-4. 
+4. some kind of safety app/site for single travelers - connect them with the right people when they need help
 
 ### Personal Development/Self-Care
 1. online journaling platform where you can add things like diary entries, upcoming events, mood trackers, and so on
-2. 
 
 #### keep adding ideas and sections :)
