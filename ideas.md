@@ -1,5 +1,11 @@
 ## HackGT Ideas
 
+### Rankings
+1. platform where users can upload receipts to keep track of how much money they spend where (comprehensively analyzes spending habits) (*Capital One*) 
+2. platform to connect restaurants and local gardeners (*NCR*)
+3. a platform that helps doctors keep track of patient records (*Anthem*)
+4. 
+
 ### Ed Tech
 1. anti-plagiarism chrome extension that can be run on Google Docs while the student is working
 2. app that connects individuals with others anonymously for mental health support?
@@ -9,7 +15,7 @@
 
 ### Health
 1. find a pharmacy near you that has all the items in your prescription
-2. a platform that helps doctors keep track of patient records
+2. a platform that helps doctors keep track of patient records (*Anthem*)
 3. database creater for researchers to support their labwork
 4. platform where patients can keep track of their payments to hospitals
 5. online health options for people living in rural areas/far away from hospitals in case there's any emergency
@@ -31,13 +37,18 @@
 ### Finance and Banking
 1. encryption service for sensitive banking data
 2. platform where users can upload receipts and send to companies for business trips to be reimbursed (probably exists already)
-3. platform where users can upload receipts to keep track of how much money they spend where (comprehensively analyzes spending habits)
+3. platform where users can upload receipts to keep track of how much money they spend where (comprehensively analyzes spending habits) (*Capital One*) 
 
 ### Travel
 1. "throw a dart to pick your next destination" but online – randomly picks your next travel destination
 2. set paramaters (budget, "bucket list destinations", type of vacation wanted, etc.) and the platform will find the next travel location for you
 3. itinerary generator
 4. some kind of safety app/site for single travelers - connect them with the right people when they need help
+
+### Restaurants
+1. making restaurant websites mobile-friendly
+2. mobile paying
+3. platform to connect restaurants and local gardeners (*NCR*)
 
 ### Personal Development/Self-Care
 1. online journaling platform where you can add things like diary entries, upcoming events, mood trackers, and so on
