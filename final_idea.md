@@ -1,7 +1,7 @@
 ## HackGT Project: (project name)
 
-#### Build a platform that helps restaurants
-Aligns with the NCR Sponsorship Challenge maybe
+#### Build a platform that helps local restaurants connect to local farmers
+Aligns with the NCR Sponsorship Challenge 
 
 ### Problem Statements
 1. Help Small Businesses thrive - Local restaurants are connected with farmers to receive higher quality, fresher food. Thrive = 
@@ -17,20 +17,19 @@ Aligns with the NCR Sponsorship Challenge maybe
 4. checkout through third-party payment (venmo)
 5. order tracking through delivery company 
 
-
-### API:
-1. catalog service: farmers can use this feature to create a list of all the produce they're growing (includes item availability)
-2. delivery partner interface: restaurants can use this feature to create a new delivery 
+### NCR Technologies: 
+1. NCR Design System used in Figma to design the website layout
+2. Business Services Platform used to create a catalog and handle orders and deliveries through Catalog Service, Order, and Delivery Partner Interface
 
 
 ### Applications
-1. easier for companies to reimburse people on business travels (just add a date criteria)
-2. track personal spending habits and set goals
-3. come up with more
+1. easier for local restaurants to find fresher, healthier, and higher quality foods to improve their menu and support local farmers
+2. one place to find, buy, and track orders 
 
 ### Questions we need to answer:
-1. how is this app different from, say, BoA's spending and budgeting system? what does this system allow for that the BoA system couldn't?
-2. how are we ensuring privacy/encryption?
-3. what about online transactions like venmo or paypal? is there a way we can add that info to this system?
-4. can the OCR read both paper and electronic receipts?
+1. how are we ensuring privacy/encryption?
+2. what about online transactions like venmo or paypal? is there a way we can add that info to this system?
+3. how do the order tracking and payment systems work?
+4. why would restaurants want to pay more for local produce if they can buy it in bulk from other places?
 5. what's next? how might you add to this project if you had more time/resources/will to work?
+6. add some more!
