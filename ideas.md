@@ -3,15 +3,19 @@
 #### Build a platform that helps restaurants
 Aligns with the NCR Sponsorship Challenge maybe
 
+### Problem Statements
+1. Help Small Businesses thrive - Local restaurants are connected with farmers to receive higher quality, fresher food. Thrive = 
+2. Help restaurants and grocery stores handle a surge in online orders - Restaurants can use website to find farmers to get more food from in case they don't have enough for surge in online orders 
+
 ### Functionality:
-1. 
-1. encrypted user sign-in/sign-up
-2. users can upload up to 15 receipts at once
-3. OCR to scan and read receipts and store information in a database
-4. cross checks with a pre-existing database to figure out type of purchase
-5. presents the information in the database in a user-friendly way
-6. allows for the user to set a budget for specific brands/types of purchases (since people most likely wouldn't upload frequently, we wouldn't have any way to track/stop people from going over their budget)
-7. stores (?) receipts for future viewing – can be deleted if no longer necessary
+#### Page 1
+1. encrypted user sign-in/sign-up (and bout/contact us sections)
+#### Page 2
+2. food offerings organized by farmer distance 
+3. search for specific foods, location/proximity, food categories
+#### Page 3
+4. checkout through third-party payment (venmo)
+5. order tracking through delivery company 
 
 
 ### API:
